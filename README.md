@@ -57,9 +57,6 @@ The database includes **6 tables**:
 
 ### **Entity Relationship Diagram (ERD)**
 
-![ERD](https://via.placeholder.com/800x400.png?text=Insert+ERD+Diagram+Here)  
-(*Insert your ERD image*)
-
 ---
 
 ## **How to Use This Repository**
@@ -110,13 +107,6 @@ Run the following SQL queries:
 2. **Department Growth**: Sales and Development had the highest employee count.
 3. **Common Last Names**: The most frequent last name was `Smith`.
 
-### **Screenshots of Results:**
-
-| Query | Screenshot |
-|-------|------------|
-| **Employee List** | ![Employee Query](https://via.placeholder.com/400x200.png) |
-| **Managers** | ![Manager Query](https://via.placeholder.com/400x200.png) |
-
 ---
 
 ## **References**
@@ -133,6 +123,3 @@ This project was made possible with the help of the following resources:
 ## **Acknowledgments**
 Special thanks to all the platforms and tools that supported this project and helped enhance the understanding of relational database systems.
 
----
-
-Let me know if you'd like assistance tailoring the README further or adding specific elements like images or links!
